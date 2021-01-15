@@ -1,0 +1,3 @@
+include ':lib'
+include ':app'
+rootProject.name = "ndk20210115"
